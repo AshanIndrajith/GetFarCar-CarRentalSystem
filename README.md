@@ -7,19 +7,21 @@ GetFarCar-CarRentalSystem is a car rental system developed in Java. It is design
 
 <img src="https://github.com/AshanIndrajith/GetFarCar-CarRentalSystem/blob/main/rentcar.png">
 
-<h4> The basic requirements for GetFarCar-CarRentalSystem are as follows:</h4>
+<h3> The basic requirements for GetFarCar-CarRentalSystem are as follows:</h3>
 
-Car Listings: The system should have a database of available cars with details 
+- Car Listings: The system should have a database of available cars with details 
 
-User Registration and Authentication: Customers should be able to create an account, log in, and authenticate themselves to access the rental services.
+- User Registration and Authentication: Customers should be able to create an account, log in, and authenticate themselves to access the 
+   rental services.
 
-Car Reservation: Customers should be able to make reservations for specific cars.
+- Car Reservation: Customers should be able to make reservations for specific cars.
 
-Booking Management: The system should handle the management of bookings, managing availability.
+- Booking Management: The system should handle the management of bookings, managing availability.
 
-Admin Dashboard: An administrative interface should be available to manage car listings, user accounts, bookings, and generate reports.
+- Admin Dashboard: An administrative interface should be available to manage car listings, user accounts, bookings, and generate reports.
 
-Driver Registration: Allow drivers to create an account and provide necessary information such as license details, contact information, and availability.
+- Driver Registration: Allow drivers to create an account and provide necessary information such as license details, contact 
+  information, and availability.
 
 
 
